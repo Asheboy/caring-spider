@@ -4,7 +4,7 @@
   "palette": "green",
   "header": {
     "title": "",
-    "logo_img": "",
+    "logo_img": "/images/logo_transparent.png",
     "has_nav": true
   },
   "footer": {
