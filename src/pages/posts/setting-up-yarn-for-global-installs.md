@@ -4,6 +4,7 @@ subtitle: >-
   How to configure your system and yarn so that globally installed packages are
   located in a safe and sensible place
 date: 2019-08-03T06:51:06.424Z
+thumb_img_path: /images/feature-speed.png
 template: post
 ---
 
